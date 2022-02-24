@@ -1,0 +1,22 @@
+{
+    "hello": {
+        "say": "<Name>, good afternoon! You are concerned about Company <X>, we are conducting a survey of satisfaction with our services. Tell me, is it convenient for you to talk now?",
+        "hello_repeat": "This is Company <X>,  Tell me, is it convenient for you to talk now?",
+        "hello_null": "Sorry, I can't hear you. Could you repeat please?"
+    },
+    "main": {
+        "say": "Tell me, are you ready to recommend our company to your friends? Please rate it on a scale from '0' to '10', where '0' - I will not recommend it, '10' - I will definitely recommend it.",
+        "recommend_repeat_2" : "Well, if you were asked to recommend our company to friends, would you do it? If 'yes' - then the score is '10', if exactly no - '0'.",
+        "recommend_score_negative": "Well, from 0 to 10, how would you rate: 0, 5 or maybe 7 ?",
+        "recommend_score_neutral": "Well, from 0 to 10, how would you rate it ?",
+        "recommend_score_positive": "Well, on a 10-point scale, how would you rate 8-9 or maybe 10 ?",
+        "recommend_null": "I'm sorry I can't hear you, could you repeat that ?",
+        "recommend_default": "Could you repeat please"
+    },
+    "hangup": {
+        "hangup_negative": "I understand you. In any case, thank you so much for your time! All the best to you.",
+        "hangup_positive": "Great! Thank you so much for your time! All the best to you!",
+        "hangup_wrong_time": "I'm sorry to bother you. All the best to you.",
+        "hangup_null": "I can't hear you anyway, so I'd better call you back. All the best to you"
+    }
+}
